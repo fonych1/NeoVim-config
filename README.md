@@ -9,8 +9,8 @@ NeoVim
 
 `
 Ripgrep
-https://github.com/BurntSushi/ripgrep
 `
+https://github.com/BurntSushi/ripgrep
 
 ## Installation
 copy link from [url](https://github.com/wbthomason/packer.nvim) into console
