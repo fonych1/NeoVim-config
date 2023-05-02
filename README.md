@@ -5,7 +5,11 @@ This config is forked from [ThePrimeagen](https://github.com/ThePrimeagen/init.l
 ## Prerequisites
 `
 NeoVim
-[ripgrep](https://github.com/BurntSushi/ripgrep)
+`
+
+`
+Ripgrep
+https://github.com/BurntSushi/ripgrep
 `
 
 ## Installation
