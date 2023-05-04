@@ -10,7 +10,15 @@ NeoVim
 `
 Ripgrep
 `
+
 https://github.com/BurntSushi/ripgrep
+brew install ripgrep
+
+`
+Lua
+`
+
+brew install lua
 
 ## Installation
 copy link from [url](https://github.com/wbthomason/packer.nvim) into console
